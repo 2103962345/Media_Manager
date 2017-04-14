@@ -16,6 +16,8 @@
                 status <name>
                 - for help type
                 help
+		- exit
+		exit
             
             You can add 3 different statuses
 		 For books:
