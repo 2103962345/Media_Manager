@@ -280,20 +280,22 @@ public class MenuController {
 	 //help
 	 public void help(){
 		 System.out.println("Commands: ");
-		 System.out.println("\t - for adding book, music or film type");
+		 System.out.println("\t - for adding book, music or film");
 		 System.out.println("add <name>");
-		 System.out.println("\t - for adding status for book, music or film type ");
+		 System.out.println("\t - for adding status for book, music or film");
 		 System.out.println("add status <name>");
-		 System.out.println("\t - to delete book, music or film type");
+		 System.out.println("\t - to delete book, music or film");
 		 System.out.println("delete <type> <name>");
-		 System.out.println("\t - to show all books, music or films type ");
+		 System.out.println("\t - to show all books, music or films");
 		 System.out.println("print <type>");
-		 System.out.println("\t - to show all books, music or films with specific status type ");
+		 System.out.println("\t - to show all books, music or films with specific status");
 		 System.out.println("printf <status>");
-		 System.out.println("\t - to show status for specific book, music or film with type ");
+		 System.out.println("\t - to show status for specific book, music or film ");
 		 System.out.println("status <name>");
-		 System.out.println("\t - for help type ");
+		 System.out.println("\t - for help ");
 		 System.out.println("help");
+		 System.out.println("\t - for exit ");
+		 System.out.println("exit");
 		 System.out.println("You can add 3 different type");
 		 System.out.println("For books: ");
 		 System.out.println("\t * reading ");
